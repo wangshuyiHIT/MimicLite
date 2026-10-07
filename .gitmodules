@@ -1,12 +1,12 @@
 [submodule "active-adaptation"]
 	path = active-adaptation
-	url = git@github.com:Agent-3154/active-adaptation.git
+	url = git@github.com:wangshuyiHIT/active-adaptation.git
 	branch = dev/hdmi
 [submodule "mimic-lite"]
 	path = mimic-lite
-	url = git@github.com:EGalahad/mimic-lite.git
+	url = git@github.com:wangshuyiHIT/mimic-lite.git
 	branch = main
 [submodule "sim2real"]
 	path = sim2real
-	url = git@github.com:EGalahad/sim2real.git
+	url = git@github.com:wangshuyiHIT/sim2real.git
 	branch = main
